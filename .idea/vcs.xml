@@ -3,7 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lld-mook-my-show" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/parkinglot" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/reviews" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/twitter-backend-java" vcs="Git" />
   </component>
 </project>
